@@ -1,0 +1,42 @@
+{
+  "_from": "egg-view-ractive@^1.0.2",
+  "_id": "egg-view-ractive@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-KFTp8rejD2RkOvThc91EKAiclHa6tPHxJjS0rXbw2njjHX5oaV+vua2zXqmHX3prLgTpbEFPwa2gBP8CuRwghg==",
+  "_location": "/egg-view-ractive",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "egg-view-ractive@^1.0.2",
+    "name": "egg-view-ractive",
+    "escapedName": "egg-view-ractive",
+    "rawSpec": "^1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/egg-view-ractive/-/egg-view-ractive-1.0.3.tgz",
+  "_shasum": "18a1d2e1dd62453baa983204ce16e7275dd34ab2",
+  "_spec": "egg-view-ractive@^1.0.2",
+  "_where": "/Users/zhouling/zhouling/xwjr-ds-pro",
+  "bundleDependencies": false,
+  "dependencies": {
+    "view": ""
+  },
+  "deprecated": false,
+  "eggPlugin": {
+    "name": "ractive"
+  },
+  "keywords": [
+    "egg",
+    "egg-plugin",
+    "egg-view",
+    "ractive"
+  ],
+  "name": "egg-view-ractive",
+  "version": "1.0.3"
+}
